@@ -8,6 +8,10 @@ import Swift
 import SwiftUI
 import SystemConfiguration
 import _Concurrency
-public struct SastoTickets {
-  public static func bookFlight(clientId: Swift.String, clientSecret: Swift.String, walletBalance: Swift.Double, phone: Swift.String, initilizeView: @escaping (_ view: SwiftUI.AnyView?, _ error: Swift.Error?) -> (), completion: @escaping (_ response: [Swift.String : Any]?, _ error: Swift.Error?) -> ())
+public struct SastoticketsView : SwiftUI.View {
+  public init(clientId: Swift.String, clientSecret: Swift.String, walletBalance: Swift.Double, phone: Swift.String, callback: @escaping (_ response: [Swift.String : Any]?, _ error: Swift.Error?) -> ())
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s12SastoTickets16SastoticketsViewV4bodyQrvp", 0) __
 }
