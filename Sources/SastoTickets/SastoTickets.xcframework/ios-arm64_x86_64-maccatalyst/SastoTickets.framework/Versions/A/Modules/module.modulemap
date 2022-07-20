@@ -1,0 +1,11 @@
+framework module SastoTickets {
+  umbrella header "SastoTickets.h"
+
+  export *
+  module * { export * }
+}
+
+module SastoTickets.Swift {
+    header "SastoTickets-Swift.h"
+    requires objc
+}
