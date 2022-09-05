@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		GRUqTv76nd1uJ4jDjNtkFcjTLmA=
+		kU/BJDSJOmsYn5zBCdQlfCt/9IQ=
 		</data>
 		<key>Resources/FiraSans-Bold.ttf</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		YYGvlYSBnW9XzC0aDzVoA2WwDto=
+		0GchEMpQ6lKx1Yg0oXfTEl3uPIA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -53,42 +53,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mT+LPpi9OuGds3K5+GiIGCEjCTz+SE9HGQ86lAetCLk=
+			Y7uzHFZgg4JttzMzyNECa54gu+9lPly9cRTx79cYQLo=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5vd7KPuzUUFptOwZoS3U9jQ+xBg7/Bik3E5rEpsIcbg=
+			ZPFpqZgRCtH3hHuD7aGUHQsXEGXR2WNveT8Uly/cMrk=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g9R0l9Qf1Snk2mJd2u2WiYBd3XBSqoFaL03o0MVdaCs=
+			2t9INfB6gHkBP+kl7FA9CRfaF5WqrULvc/wG8d9e3nU=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4d0syItkurXApVDMqW5pXg7RXogveQSFB09EiNPS5mc=
+			w7zfv2mJXsogQhqzB8DXnbBqVbqz1zmvVrc899XWy8s=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S0tvO8yEgtgwQ6inq1ezQS0UElh/xEEOV6tc44XyYL4=
+			GeuaeYoyaZYchgqRfJ9EBV5hjEKukhSPZKHH20sHi48=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1HPRjywNewv0rFpafBV48vDSPXCrv1V2aH+ul0RIT0s=
+			WJSwIHQmKstX1l/6WCz+K35CBwrHLcPsk3zhMLAGyxs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -102,7 +102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xvhnwiO+KIPrtVR9GZRHQj1AvcI1roayGf0pB6bzM1Y=
+			pJyOCpg2RcE/qeXsVLa7Rtjx4p+458JV7PWamKk2v7c=
 			</data>
 		</dict>
 		<key>Resources/FiraSans-Bold.ttf</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eWKtUv/zUbayHs9DUb6Pt58omirnO/EgFndQwXfGmdI=
+			WtoPKN9SOC/ioVx+tkuVLIMmgtKvmWa2D9Xxu4JQae4=
 			</data>
 		</dict>
 	</dict>
