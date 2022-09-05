@@ -3,7 +3,7 @@
 <br>
 <br>
 
-Minimum SDK Requirement: IOS 13
+Minimum SDK Requirement: IOS 14
 
 
 #### Steps to add SDK to your project
