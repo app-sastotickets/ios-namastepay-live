@@ -6,6 +6,6 @@ framework module SastoTickets {
 }
 
 module SastoTickets.Swift {
-    header "SastoTickets-Swift.h"
-    requires objc
+  header "SastoTickets-Swift.h"
+  requires objc
 }
