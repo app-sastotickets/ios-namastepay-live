@@ -1685,161 +1685,154 @@
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 201,
+      "offset": 202,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 244,
+      "offset": 245,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 290,
+      "offset": 291,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 338,
+      "offset": 339,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 388,
+      "offset": 389,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 484,
+      "offset": 485,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 531,
+      "offset": 532,
       "length": 14,
       "value": "\"1, All Class\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 605,
+      "offset": 606,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 655,
+      "offset": 656,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "Array",
-      "offset": 703,
+      "offset": 704,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 778,
+      "offset": 779,
       "length": 8,
       "value": "\"oneway\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 831,
+      "offset": 832,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 874,
+      "offset": 875,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 920,
+      "offset": 921,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 965,
+      "offset": 966,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1006,
+      "offset": 1007,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1050,
+      "offset": 1051,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1094,
+      "offset": 1095,
       "length": 4,
       "value": "\"NP\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1140,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1218,
+      "offset": 1176,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1257,
+      "offset": 1215,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1297,
+      "offset": 1255,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/OneWay\/OneWayViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1341,
+      "offset": 1299,
       "length": 11,
       "value": "\"All Class\""
     },
@@ -2360,6 +2353,13 @@
       "offset": 1528,
       "length": 10,
       "value": "\"Portugal\""
+    },
+    {
+      "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/EmergencyContactInformationScreen\/EmergencyContactInformationView.swift",
+      "kind": "StringLiteral",
+      "offset": 531,
+      "length": 41,
+      "value": "\"Please fill in all the required fields.\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/SelectOriginFlightScreen\/SelectOriginFlightView.swift",
@@ -3190,133 +3190,133 @@
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 489,
+      "offset": 490,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 687,
+      "offset": 576,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 748,
+      "offset": 637,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 795,
+      "offset": 684,
       "length": 14,
       "value": "\"1, All Class\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 863,
+      "offset": 752,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 913,
+      "offset": 802,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "Array",
-      "offset": 961,
+      "offset": 850,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1027,
+      "offset": 916,
       "length": 7,
       "value": "\"round\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1079,
+      "offset": 968,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1122,
+      "offset": 1011,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1168,
+      "offset": 1057,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1213,
+      "offset": 1102,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1254,
+      "offset": 1143,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1298,
+      "offset": 1187,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1342,
+      "offset": 1231,
       "length": 4,
       "value": "\"NP\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1422,
+      "offset": 1311,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1461,
+      "offset": 1350,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1501,
+      "offset": 1390,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/MainScreen\/RoundTrip\/RoundTripViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1545,
+      "offset": 1434,
       "length": 11,
       "value": "\"All Class\""
     },
