@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		f/4a/R/+B6PkwZzSjBzMBpfPLAU=
+		Tti8p0m4mmGe39tg0YJ11c2m5N4=
 		</data>
 		<key>FiraSans-Bold.ttf</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		fB6hZMfcUKrrVDH+MCpVqBEgBZM=
+		CzLqwlwhf2uUXfEViui9YLRoRW0=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b8tckBlk8UTdcVfUB2jK8z7GFvU=
+		ui/9EV33fV6kcfGUA0RK7VHdN+4=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		fB6hZMfcUKrrVDH+MCpVqBEgBZM=
+		CzLqwlwhf2uUXfEViui9YLRoRW0=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hILYJHu6pTE46kiBaYbZj+7hDoI=
+		mbwJw74/dF1/rKFm9v+92HaK7pM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m+kRUsmUstI+HCrOrOTOTHvyUN9j+MYBhsP8CuWp108=
+			7Ficc+ZZnoY6FJcx2cnr/oekdZ5TBLhJZQF5iUTHjWU=
 			</data>
 		</dict>
 		<key>FiraSans-Bold.ttf</key>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEBxHetWXGftd8dhJ7Om2Oejse8o9jsHXIir0vbT0qI=
+			htYh2vnvP6qDAEjKPXd9Rvvn5x+7EInGj0KTe7W1kus=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -175,14 +175,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uhkrliXAyyB415qidm8kUPXRaDEtyEhTRx7vePSUAGI=
+			sikhGhe6EvuCyZJm/qGqaXQz7V209IuRjp9NmZbwzb8=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEBxHetWXGftd8dhJ7Om2Oejse8o9jsHXIir0vbT0qI=
+			htYh2vnvP6qDAEjKPXd9Rvvn5x+7EInGj0KTe7W1kus=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NBPb3xvcYt9gGr8EO1q1s2/mvrjOcPf7cAqlnaOUCvA=
+			jcqXKQCoICWn8uRFKI3ltqwwGnzklDUHvEufC4PgWZQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
