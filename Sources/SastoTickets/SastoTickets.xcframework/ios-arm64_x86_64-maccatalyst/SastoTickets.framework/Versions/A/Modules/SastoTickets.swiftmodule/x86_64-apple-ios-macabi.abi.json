@@ -510,9 +510,17 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -582,8 +590,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12SastoTickets16SastoticketsViewV8clientId0E6Secret13walletBalance5phone8callbackACSS_SSSdSSySDySSypGSg_s5Error_pSgtctcfc",
-            "mangledName": "$s12SastoTickets16SastoticketsViewV8clientId0E6Secret13walletBalance5phone8callbackACSS_SSSdSSySDySSypGSg_s5Error_pSgtctcfc",
+            "usr": "s:12SastoTickets16SastoticketsViewV8clientId0E6Secret13walletBalance5phone8callbackACSS_SSSdSgSSySDySSypGSg_s5Error_pSgtctcfc",
+            "mangledName": "$s12SastoTickets16SastoticketsViewV8clientId0E6Secret13walletBalance5phone8callbackACSS_SSSdSgSSySDySSypGSg_s5Error_pSgtctcfc",
             "moduleName": "SastoTickets",
             "declAttributes": [
               "AccessControl"
@@ -2781,23 +2789,37 @@
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomTextFieldView.swift",
       "kind": "StringLiteral",
-      "offset": 222,
+      "offset": 258,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomTextFieldView.swift",
       "kind": "BooleanLiteral",
-      "offset": 279,
+      "offset": 315,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomTextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 349,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 360,
+      "offset": 430,
       "length": 2,
       "value": "16"
+    },
+    {
+      "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 547,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/BookingDetailsScreen\/RoundTrip\/RTBookingDetailsView.swift",
@@ -3008,6 +3030,13 @@
       "offset": 201,
       "length": 8,
       "value": "\"Female\""
+    },
+    {
+      "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/TravellerInformationScreen\/TravellerInformationView.swift",
+      "kind": "Array",
+      "offset": 1256,
+      "length": 21,
+      "value": "[false, false, false]"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Screens\/EmergencyContactInformationScreen\/EmergencyContactInformationViewModel.swift",
@@ -3362,14 +3391,14 @@
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomDatePickerView\/CustomRoundTripDatePickerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11838,
+      "offset": 11938,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomDatePickerView\/CustomRoundTripDatePickerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12159,
+      "offset": 12259,
       "length": 1,
       "value": "0"
     },
@@ -3924,7 +3953,7 @@
       "kind": "StringLiteral",
       "offset": 182,
       "length": 8,
-      "value": "\"0.0.22\""
+      "value": "\"0.0.23\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
@@ -5279,78 +5308,71 @@
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
-      "kind": "FloatLiteral",
-      "offset": 206,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "StringLiteral",
-      "offset": 237,
+      "offset": 239,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 293,
+      "offset": 295,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 352,
+      "offset": 354,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 406,
+      "offset": 408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 468,
+      "offset": 470,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 530,
+      "offset": 532,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 587,
+      "offset": 589,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 653,
+      "offset": 655,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "StringLiteral",
-      "offset": 719,
+      "offset": 721,
       "length": 10,
       "value": "\"Nepalese\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "StringLiteral",
-      "offset": 772,
+      "offset": 774,
       "length": 4,
       "value": "\"NP\""
     },
@@ -6204,14 +6226,14 @@
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomDatePickerView\/CustomOneWayDatePickerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8558,
+      "offset": 8608,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/CustomViews\/CustomDatePickerView\/CustomOneWayDatePickerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8879,
+      "offset": 8929,
       "length": 1,
       "value": "0"
     }

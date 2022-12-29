@@ -12,7 +12,7 @@ import SystemConfiguration
 import _Concurrency
 import _StringProcessing
 public struct SastoticketsView : SwiftUI.View {
-  public init(clientId: Swift.String, clientSecret: Swift.String, walletBalance: Swift.Double, phone: Swift.String, callback: @escaping (_ response: [Swift.String : Any]?, _ error: Swift.Error?) -> ())
+  public init(clientId: Swift.String, clientSecret: Swift.String, walletBalance: Swift.Double?, phone: Swift.String, callback: @escaping (_ response: [Swift.String : Any]?, _ error: Swift.Error?) -> ())
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Qf1rkIOZKjVI4gHY+K5OEzOd4SA=
+		b0ecriCGzYBxY6CUv0+8PfGEtHg=
 		</data>
 		<key>FiraSans-Bold.ttf</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		A3U1ngZW1IxyfU3LyEimhVrRDBY=
+		jq7uiNoojPtLYoaSZpX3IPIfYm4=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0ScrPYk86XpQI/Qw6U0NkirWtSo=
+		kZkTJku6enEEUQ3/Dcl5/yPosKE=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,19 +54,19 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0ScrPYk86XpQI/Qw6U0NkirWtSo=
+		kZkTJku6enEEUQ3/Dcl5/yPosKE=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W3susZiAw5T+ZtngesBiovlR7NM=
+		e13oDyRXfbggzxiUFGrW+CsMf5I=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		A3U1ngZW1IxyfU3LyEimhVrRDBY=
+		jq7uiNoojPtLYoaSZpX3IPIfYm4=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2pgsqR2ICumlzBxlfQo8F7gZZu8=
+		PH1/Xv99luftEnlZRkD/xuegjjA=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2pgsqR2ICumlzBxlfQo8F7gZZu8=
+		PH1/Xv99luftEnlZRkD/xuegjjA=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mB/PTY8EvPN9zyvNS4mtylDZacc=
+		QReg5SPgAcZ6QhOPJ6Bs8hlBJ+o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5J66m+xFI7KUtO69sa8eQE+xbC+8zkCEjYb4zXvdI2M=
+			nC3KurNX+ai1Ru/RC8ndELnnEwmxwqYUrNK0iZttExk=
 			</data>
 		</dict>
 		<key>FiraSans-Bold.ttf</key>
@@ -147,14 +147,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AGIKJKaiIqq7AJpHTf4g330zLwXRTRB5KsPz9UCqKnU=
+			P2YPANSog9woYjQ6SVIzID3uateJT9Jxje/5/i0kdR4=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DvayzybEa2ljLG++R78WLzIjUwWGC72HH7VGhjIJRf0=
+			26/BpKV9LqhW23J/7ZHdhEljodg5Y2lokgHiitzrP9A=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -168,28 +168,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DvayzybEa2ljLG++R78WLzIjUwWGC72HH7VGhjIJRf0=
+			26/BpKV9LqhW23J/7ZHdhEljodg5Y2lokgHiitzrP9A=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nahR4gchbZXLWIDObfByR/wKs9RZxZOtAC12MMtm8yA=
+			1q/AuhEcTEVy4PkZvDzfqXdHqEPiKHtjdWH3Y6ML6z4=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AGIKJKaiIqq7AJpHTf4g330zLwXRTRB5KsPz9UCqKnU=
+			P2YPANSog9woYjQ6SVIzID3uateJT9Jxje/5/i0kdR4=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J567nAK/d/dcJCO9wns1PbD7OFAK2z+HA+Nemrkz/OQ=
+			vkF921w6Q1eCNf4v5KWOzS5U4AYSWUxzxCMykHPL9NM=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -203,14 +203,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J567nAK/d/dcJCO9wns1PbD7OFAK2z+HA+Nemrkz/OQ=
+			vkF921w6Q1eCNf4v5KWOzS5U4AYSWUxzxCMykHPL9NM=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zj16tNxj/LxB6Klvvxw+x0XFCs5wTteBVTnpF4+nJ+c=
+			Tn/i3dZBdFQTFxhpyxzS+XQLszCeNdOcjK7AusutnQE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
