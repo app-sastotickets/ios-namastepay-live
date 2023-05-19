@@ -29,7 +29,7 @@ import SastoTickets
 2. Run the following code preferably on button click which will display sastotickets user interface
 
 ```
-let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", walletBalance: 0, phone: ""){response, error in
+let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", walletBalance: 0, phone: "", environment: "live"){response, error in
     if error != nil {
         //Handle error
     }
@@ -68,7 +68,7 @@ class ViewController: UIViewController {
     }
     
     @objc func didTapButton(){
-        let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", walletBalance: 0, phone: ""){response, error in
+        let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", walletBalance: 0, phone: "", environment: "live"){response, error in
             if error != nil {
                 //Handle error
             }
