@@ -26,7 +26,7 @@ import SastoTickets
         
 ```
 
-2. Run the following code preferably on button click which will display sastotickets user interface
+2. Run the following code preferably on button click which will display sastotickets user interface ENVIRONMENT: live or test
 
 ```
 let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", walletBalance: 0, phone: "", environment: "live"){response, error in
